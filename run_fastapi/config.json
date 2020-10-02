@@ -1,0 +1,4 @@
+{
+    "SIGNING_SECRET": "Your Slack App's Singing Secret",
+    "BOT_TOKEN": "Your Slack App's Bot Token like xob-xxxxx"
+}
